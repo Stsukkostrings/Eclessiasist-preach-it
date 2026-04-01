@@ -1,0 +1,7 @@
+{
+  "name": "EcclesiaCast AI",
+  "description": "An AI-powered church broadcast companion that uses real-time speech recognition to automatically display Bible verses and sermon notes as live stream overlays.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
